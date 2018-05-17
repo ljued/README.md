@@ -1,2 +1,3 @@
 # README.md
-reade.me
+
+LJ test project 
